@@ -14,6 +14,15 @@
 p{
     font-size: 13px;
 }
+h2{
+    font-size:390px ;
+    color:hsl(264, 82%, 80%) ;
+    position: absolute;
+    top: -50%;
+    left: 38%;
+    opacity: 40%;
+    z-index: 1;
+}
 h4{
     font-weight: 500;
 }
@@ -138,11 +147,17 @@ img{
         box-shadow: 16px 16px 20px 16px  rgb(223, 222, 222);
     }
 
-
     .attribution {
     margin-top: 20px;
     padding-bottom:30px ;
-
-   
+}
+    h2{
+    font-size:390px ;
+    color:hsl(264, 82%, 80%) ;
+    position: absolute;
+    top: -45%;
+    left: 50%;
+    opacity: 40%;
+    z-index: 1;
 }
 }
