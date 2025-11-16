@@ -6,15 +6,17 @@
     gap: 16px;
     color: white;
     grid-template-columns: 1fr 1fr 1fr 1fr;
-    grid-template-rows: 250px 250px;
-    width: 60%;
-    height: 100dvh;
-    margin: 100px auto;
+    grid-template-rows: 1fr 1fr;
+    width: 65%;
+    height: 70vh;
+    margin: 60px auto;
+
     font-family: 'Barlow Semi Condensed';
 }
 
 p{
     font-size: 11px;
+    line-height: 14px;
 }
 
 h4{
@@ -44,6 +46,8 @@ img{
     border-radius: 5px;
     box-shadow: 16px 16px 20px 16px  rgb(223, 222, 222);
     grid-column: span 2;
+    height: 200px;
+    
 }
 
 .Jonathan{
@@ -87,6 +91,7 @@ img{
     grid-column: span 4;
     margin-top: 50px;
     color: hsl(219, 29%, 14%);
+    padding: 30Px;
    
 }
 .attribution a { 
