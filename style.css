@@ -5,7 +5,7 @@
     color: white;
     grid-template-columns: 1fr 1fr 1fr 1fr;
     grid-template-rows: 1fr 1fr;
-    width: 65%;
+    width: 60%;
     height: 100dvh;
     margin: 100px auto;
     font-family: 'Barlow Semi Condensed';
@@ -14,15 +14,7 @@
 p{
     font-size: 13px;
 }
-h2{
-    font-size:390px ;
-    color:hsl(264, 82%, 80%) ;
-    position: absolute;
-    top: -50%;
-    left: 38%;
-    opacity: 40%;
-    z-index: 1;
-}
+
 h4{
     font-weight: 500;
 }
@@ -151,13 +143,5 @@ img{
     margin-top: 20px;
     padding-bottom:30px ;
 }
-    h2{
-    font-size:390px ;
-    color:hsl(264, 82%, 80%) ;
-    position: absolute;
-    top: -45%;
-    left: 50%;
-    opacity: 40%;
-    z-index: 1;
-}
+    
 }
